@@ -23,7 +23,7 @@
 <a href="https://kaggle.com/tazinga7023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tazinga7023" height="30" width="40" /></a>
 <a href="https://instagram.com/tazinga7023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tazinga7023" height="30" width="40" /></a>
 <a href="https://medium.com/@myselfshrikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@myselfshrikar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@myselfshrikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@myselfshrikar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/myselfshrikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@myselfshrikar" height="30" width="40" /></a>
 <a href="https://discord.gg/tazinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tazinga" height="30" width="40" /></a>
 </p>
 
