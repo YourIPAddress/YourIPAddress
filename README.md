@@ -13,7 +13,7 @@
 
 - ⚒️Completely into **Machine Learning** and no more in any other domains
 
-- 📫 You can shoot a mail @ **myselfshrikar@gmail.com**
+- 📫 You can shoot a mail at: **myselfshrikar@gmail.com**
 
 - ⚡ Fun fact:  **This is my 2nd GITHUB acc (hopefully I don't loose this)**
 
