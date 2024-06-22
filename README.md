@@ -15,7 +15,7 @@
 
 - 📫 You can shoot a mail at: **myselfshrikar@gmail.com**
 
-- ⚡ Fun fact:  **This is my 2nd GITHUB acc (hopefully I don't loose this)**
+- ⚡ Fun fact:  **This is my 2nd GITHUB account (hopefully I don't loose this)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
